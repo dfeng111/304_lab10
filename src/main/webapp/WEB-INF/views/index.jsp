@@ -6,7 +6,7 @@
 <body>
 <h1 align="center">Welcome to the Chocolate Shop</h1>
 
-<h2 align="center"><a href="login.jsp">Login</a></h2>
+<h2 align="center"><a href="304_lab10/src/main/webapp/WEB-INF/views/login.jsp">Login</a></h2>
 
 <h2 align="center"><a href="listprod.jsp">Begin Shopping</a></h2>
 
